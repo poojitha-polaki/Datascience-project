@@ -1,4 +1,4 @@
-# Datascience-project
+# Datascience-project : Smart watch analysis using python
 Smart watch analysis using python
 -> Dataset : Available in Kaggle.com
 Tools used: 
